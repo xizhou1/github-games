@@ -2,6 +2,9 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
+### Quick Edit
+This is an example edit
+
 You can play the game at: https://opsgilityschool.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
